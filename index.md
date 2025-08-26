@@ -12,5 +12,7 @@ I plan to pursue graduate studies starting in **2027**, with a focus on bridging
   A structured summary and simple implementation of Kipf & Welling’s Graph Convolutional Networks.
 - **[Spectral Convolution Paper Implementation and Summary](https://skato-kx.github.io/spectral-convolution-research.github.io/)**  
   A structured summary and simple implementation based on Bruna et al.'s pioneering work on spectral graph convolution.
+- **[Fourier Neural Operator](https://skato-kx.github.io/fno-research.github.io/)**  
+  A structured summary and simple implementation based on Zongyi Li's pioneering work on fourier neural operator.
 - **[Ice-Cube GNN Implementation](https://github.com/skato-kx/ice-cube-gnn)**  
   My implementation using GNN for a past kaggle competition.
